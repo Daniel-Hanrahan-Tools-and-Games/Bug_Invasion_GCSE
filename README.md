@@ -5,7 +5,7 @@ Both source code and game is under .rbxl file but however source code is in Star
 
 <a href="https://www.roblox.com/games/110831995565617/Bug-Invasion-GCSE">Play Game in Roblox Here</a>
 
-<h3>Both of these links take you to Untitled_Knight_Game</h3>
+<h3>Both of these links take you to Bug_Invasion</h3>
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Bug_Invasion">Bug_Invasion Repository Page</a>
 
